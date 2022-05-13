@@ -1,0 +1,23 @@
+body {
+	font-size: 16px;
+}
+
+#menu-tag {
+	text-align: center;
+	margin-bottom: 10px;
+}
+#header-nav {
+	background-color: grey;
+}
+
+.menu-item {
+	background-color: grey;
+}
+
+.menu-item-title {
+	text-align: center;
+}
+
+.menu-item-description {
+	font-size: 1em;
+}
